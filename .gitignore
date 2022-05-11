@@ -1,0 +1,39 @@
+CH
+GZ
+HS
+project/
+/target/
+target/
+!.mvn/wrapper/maven-wrapper.jar
+mvnw*
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+logs/
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+*/logs/
+/*/logs/
+
+### web-client ###
+/refactor-risk-web/web-client/*/build
+/refactor-risk-web/web-client/*/node_modules
+### /risk-web/src/main/resources/static/frame/*
+### /risk-web/src/main/resources/static/workbench/*
+### /risk-web/src/main/resources/templates/*
